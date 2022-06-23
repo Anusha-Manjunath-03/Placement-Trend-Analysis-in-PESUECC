@@ -6,3 +6,7 @@ It takes year and tier number as user input and on valid input display a graph a
 
 The project mainly focus on providing an overview of placement statistics of PESU EC Campus.
 The placement statistics for year 2016 and 2017 is been analysed. The project can be extended further if neccessary information is available in the upcoming years.
+
+Links for the pdf(converted to excel):
+1. https://pesitsouth.pes.edu/wp-content/uploads/2018/07/Placement-Statistics_2016-17.pdf
+2. https://pesitsouth.pes.edu/wp-content/uploads/2018/07/Placement-Statistics-_-2017-18.pdf
